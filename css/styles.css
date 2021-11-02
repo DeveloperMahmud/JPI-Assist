@@ -308,6 +308,9 @@ input[type='checkbox'] {
 	color: #ffffff;
 }
 
+.suggestion-btn-container > a{
+	text-decoration: none;
+}
 
 /******************/
 /*     Header     */
